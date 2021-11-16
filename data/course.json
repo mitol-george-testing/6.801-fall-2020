@@ -1,0 +1,35 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Graphics and Visualization"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "f886788c-41aa-8c0d-f4f7-3e5ba570852b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Machine Vision",
+  "course_description": "This course is an\u00a0introduction to the process of generating a symbolic description of the environment from an image. It covers the physics of image formation, image analysis, binary image processing, and filtering. Machine vision has applications in robotics and the intelligent interaction of machines with their environment. Students taking the graduate version complete additional assignments.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "6.866",
+  "primary_course_number": "6.801",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes",
+    "Projects"
+  ],
+  "title": "Course Metadata"
+}
